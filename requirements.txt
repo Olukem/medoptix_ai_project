@@ -1,0 +1,14 @@
+pandas
+boto3
+fastapi
+uvicorn[standard]
+gunicorn
+pydantic
+pandas
+numpy
+requests
+scikit-learn==1.6.1       # ← pin to the version used for training
+joblib
+shap
+psycopg2-binary
+python-dotenv
