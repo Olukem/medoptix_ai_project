@@ -1,1 +1,1 @@
-#### MedOptix AI – Personalized Treatment Optimization in European Healthcare
+#### MedOptix AI – Personalized Treatment Optimization in European Healthcare.
